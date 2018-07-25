@@ -1,2 +1,3 @@
 // Code your solution in this file.
-function lowerCaseDrivers()
+var sorted = words.map(function(value) {
+    return value.toLowerCase();
